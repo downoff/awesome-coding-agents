@@ -28,6 +28,7 @@
 | 👀 | [mu](https://github.com/qybaihe/mu) | judge-model, decision-ledger, pi, desktop | mu (μ): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi. |
 | 👀 | [Mixdog](https://github.com/tribgames/mixdog) | desktop, model-routing, subagents, multi-provider | Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review. |
 | 👀 | [Empryo](https://github.com/proxysoul/Empryo) | code-map, symbol-editing, terminal, desktop | AI coding harness for desktop, terminal and CI. Maps your repo, edits code by symbol through AST and LSP, then runs your checks. Any model or the plan you already pay for. Get it at https://empryo.com |
+| 👀 | [Praex](https://github.com/ailucius/praex-cli) | remote-control, mobile, hosted-models, byo-provider | Terminal-first AI coding agent with hosted no-nannying models |
 
 ## CLI Agent Helpers
 
